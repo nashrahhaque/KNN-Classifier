@@ -2,7 +2,7 @@
 
 
 
-This Python code demonstrates the use of the K-Nearest Neighbors (KNN) classification algorithm to classify data based on the distance to its k-nearest neighbors as asked in homework 2. The code loads datasets, performs classification, and reports test accuracies.
+This Python code demonstrates the use of the K-Nearest Neighbors (KNN) classification algorithm to classify data based on the distance to its k-nearest neighbors. The code loads datasets, performs classification, and reports test accuracies.
 
 Dependencies:
 - `numpy` for numerical operations - `pandas` for data manipulation
